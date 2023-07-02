@@ -4,6 +4,6 @@
 # Este código se creó para seguir las instrucciones del
 # lab de git.
 
-if __main__ == '__name__':
-    print("¡Hola Mundo")
+if __name__ == '__main__':
+    print("¡Hola Mundo!")
 
